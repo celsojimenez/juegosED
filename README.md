@@ -1,5 +1,5 @@
-# HTML5-JS Games
-Very simple JavaScript game realized inside an HTML5 Canvas. 
+# JUEGOS HTML5-JS
+Juegos muy simples implementados en un canvas de HTML5. 
 
 Just code kata, this is not meant to be a serious project, but something I do for fun.
 
