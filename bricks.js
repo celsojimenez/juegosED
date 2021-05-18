@@ -7,9 +7,9 @@
 var canvas = document.getElementById("bricksCanvas");
 var ctx = canvas.getContext("2d");
 
-var BALL_COLOR = "#FFFFFF";
-var PADDLE_COLOR = "#8e8e8e";
-var BRICK_COLORS = ["#c84848", "#c66c3a", "#a2a22a", "#48a048", "#4248c8"];
+var BALL_COLOR = "##DCF510";
+var PADDLE_COLOR = "#EE2FD7";
+var BRICK_COLORS = ["#255EE1", "#7ADD10", "#F05BEB", "#89D0EC", "#D9C416"];
 
 var ball = {
 	position: { x: 0, y: 0 },
