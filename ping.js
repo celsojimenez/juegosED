@@ -190,7 +190,7 @@ var game = {
     },
     gameWon: function () {
         if (!this.alertShown) {
-            writeText("tu gamas");
+            writeText("tu ganas");
             writeSubText("click to reload");
             playSound('win');
         }
