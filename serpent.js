@@ -7,10 +7,10 @@
 var canvas = document.getElementById("snakeCanvas");
 var ctx = canvas.getContext("2d");
 
-var FOOD_COLOR = "#23432b";
-var BORDER_COLOR = "#23432b";
-var TAIL_COLOR = "#54812c";
-var STROKE_COLOR = "#d1e890";
+var FOOD_COLOR = "#0DFF00";
+var BORDER_COLOR = "#0037FF";
+var TAIL_COLOR = "#9B7230";
+var STROKE_COLOR = "#25662B";
 
 var rect = {
     height: canvas.height - 20,
