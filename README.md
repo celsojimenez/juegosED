@@ -1,12 +1,14 @@
 # HTML5-JS Games
-Very simple JavaScript game realized inside an HTML5 Canvas. 
+Juego en Javascript con CANVAS HTML5.  
 
-Just code kata, this is not meant to be a serious project, but something I do for fun.
+Esto es un entrenamiento, no es un projecto serio,
+pero es divertido.
+
 
 ## Demo
-Type ```play``` and then the name of the game on [GaetanoBonofiglio.com](http://www.gaetanobonofiglio.com/).
+Escribe ```play``` entonces el nombre del juego es [GaetanoBonofiglio.com](http://www.gaetanobonofiglio.com/).
 
-Example:
+Ejemplo:
 
 ![demo](demo.png)
 
